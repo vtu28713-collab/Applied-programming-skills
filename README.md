@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
