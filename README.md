@@ -71,4 +71,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu28713-collab/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
